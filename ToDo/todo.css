@@ -1,0 +1,10 @@
+#cancella{
+    padding: 3px 15px;
+    background-color: red;
+    color: white;
+    border: solid 3px white;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+}
